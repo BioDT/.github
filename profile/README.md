@@ -12,5 +12,5 @@ Separate features (such as individual digital twin components) may be kept in fo
 
 List updated as new repositories are created.
 
-- Grassland dyanmics: `uc-grassland`
+- Grassland dynamics: `uc-grassland`
 - Honey bee dynamics: `uc-beehave`
