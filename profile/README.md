@@ -1,6 +1,6 @@
 # BioDT GitHub Organisation
 
-The repositories here contain the codes developed within [the BioDT project](https://biodt.eu/) funded by the European Union's Horizon Europe research and innovation programme under grant agreement [No 101057437](https://doi.org/10.3030/101057437). 
+The repositories here contain codes and material developed within [the BioDT project](https://biodt.eu/) funded by the European Union's Horizon Europe research and innovation programme under grant agreement [No 101057437](https://doi.org/10.3030/101057437). 
 
 ## Prototype Digital Twins (pDTs)
 
