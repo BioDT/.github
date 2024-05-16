@@ -4,12 +4,12 @@ The repositories here contain codes and material developed within [the BioDT pro
 
 ## Prototype Digital Twins (pDTs)
 
-The pDTs have been developed within the BioDT use cases, and the codes are available in the corresponding use case repositories:
+The pDTs have been developed within the BioDT use cases (UCs), and the codes are available in the corresponding repositories:
 
-* [Honeybee pDT](https://github.com/BioDT/uc-pollinators)
-* [Cultural Ecosystem Services pDT](https://github.com/BioDT/uc-ces)
-* [Crop Wild Relatives pDT](https://github.com/BioDT/uc-cwr)
-* [Forest Biodiversity pDT](https://github.com/BioDT/uc-forest-bird)
+* [Honeybee pDT / Pollinators UC](https://github.com/BioDT/uc-pollinators)
+* [Cultural Ecosystem Services pDT / UC](https://github.com/BioDT/uc-ces)
+* [Crop Wild Relatives pDT / UC](https://github.com/BioDT/uc-cwr)
+* [Forest Biodiversity pDT / UC](https://github.com/BioDT/uc-forest-bird)
 
 ---
 
