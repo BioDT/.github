@@ -11,6 +11,10 @@ The pDTs have been developed within the BioDT use cases (UCs), and the codes are
 * [Crop Wild Relatives pDT / UC](https://github.com/BioDT/uc-cwr)
 * [Forest Biodiversity pDT / UC](https://github.com/BioDT/uc-forest-bird)
 
+## BioDT web application [app.biodt.eu](https://app.biodt.eu)
+
+The codes for [the BioDT shiny web app](https://app.biodt.eu) are available [here](https://github.com/BioDT/biodt-shiny).
+
 ---
 
 ## Guidelines for naming new repositories
