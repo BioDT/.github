@@ -10,7 +10,7 @@ The pDTs have been developed within the BioDT use cases (UCs), and the codes are
 * [Cultural Ecosystem Services pDT / UC](https://github.com/BioDT/uc-ces)
 * [Crop Wild Relatives pDT / UC](https://github.com/BioDT/uc-cwr)
 * [Forest Biodiversity pDT / UC](https://github.com/BioDT/uc-forest-bird)
-* [Invasive Alien Species pDT / UC](https://github.com/BioDT/uc-ias-workflows)
+* Invasive Alien Species pDT: [workflows](https://github.com/BioDT/uc-ias-workflows); [IASDT.R](https://github.com/BioDT/IASDT.R) package
 
 ## BioDT web application [app.biodt.eu](https://app.biodt.eu)
 
